@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9876ffd-0534-49bc-9ffa-a221129f3711" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sk_shop/back/views/components/carts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sk_shop/back/views/components/dataTypes.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sk_shop/back/views/components/sowings.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sk_shop/back/views/dataBox.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop" beforeDir="false" afterPath="$PROJECT_DIR$/sk_shop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/sk_shop/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sk_shop/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sk_shop/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/sk_shop/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/sk_shop/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sk_shop/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sk_shop" />
+  </component>
+  <component name="ProjectId" id="1i8kCSKYZNHI3dwAkpNXzgZPHq3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Login.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Vue_pro/sk_shop/src/views/login/Login.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Login.vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9876ffd-0534-49bc-9ffa-a221129f3711" name="Default Changelist" comment="" />
+      <created>1601296478503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601296478503</updated>
+      <workItem from="1601296479570" duration="848000" />
+      <workItem from="1601297428790" duration="1711000" />
+      <workItem from="1601361377819" duration="3327000" />
+      <workItem from="1601552611306" duration="200000" />
+      <workItem from="1601698373547" duration="780000" />
+      <workItem from="1601713903231" duration="3656000" />
+      <workItem from="1601791563421" duration="4381000" />
+      <workItem from="1601799773756" duration="1712000" />
+      <workItem from="1601884527144" duration="1560000" />
+      <workItem from="1601986235532" duration="1864000" />
+      <workItem from="1602076750340" duration="1581000" />
+      <workItem from="1602162495080" duration="3748000" />
+      <workItem from="1602230744328" duration="2280000" />
+      <workItem from="1602238214799" duration="2914000" />
+      <workItem from="1602328078142" duration="610000" />
+      <workItem from="1603521308256" duration="90000" />
+      <workItem from="1603623476166" duration="2348000" />
+      <workItem from="1603629103737" duration="721000" />
+      <workItem from="1603634161892" duration="444000" />
+      <workItem from="1603683828614" duration="294000" />
+      <workItem from="1603685989627" duration="968000" />
+      <workItem from="1603687192461" duration="1235000" />
+      <workItem from="1604818300227" duration="51000" />
+      <workItem from="1604820798696" duration="3635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
